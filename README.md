@@ -1,2 +1,2 @@
-# cdda-recipe-expanded
-My personal additions to CDDA
+# Cdda-Recipes-Expanded
+My expansion to recipes in CDDA
