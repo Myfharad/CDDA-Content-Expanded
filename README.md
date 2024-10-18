@@ -1,2 +1,2 @@
-# Cdda Recipes Expanded
+# Cdda Content Expanded
 My expansion to recipes in CDDA
